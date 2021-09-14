@@ -1,0 +1,69 @@
+[submodule "semester-4/TOCS-workbench"]
+	path = semester-4/TOCS-workbench
+	url = git@gitlab.com:Shanduur/TOCS-workbench.git
+[submodule "semester-1/Simple-C-Game"]
+	path = semester-1/Simple-C-Game
+	url = git@gitlab.com:Shanduur/Simple-C-Game.git
+[submodule "semester-2/Reverse-Polish-Notation-Calculator"]
+	path = semester-2/Reverse-Polish-Notation-Calculator
+	url = git@gitlab.com:Shanduur/Reverse-Polish-Notation-Calculator.git
+[submodule "semester-3/Simple-Library-Database"]
+	path = semester-3/Simple-Library-Database
+	url = git@gitlab.com:Shanduur/Simple-Library-Database.git
+[submodule "semester-4/Numerical-Methods"]
+	path = semester-4/Numerical-Methods
+	url = git@gitlab.com:Shanduur/Numerical-Methods.git
+[submodule "semester-5/MS-Information-Board"]
+	path = semester-5/MS-Information-Board
+	url = git@gitlab.com:Shanduur/MS-Information-Board.git
+[submodule "semester-4/LabVIEW_Project_AEII_S4"]
+	path = semester-4/LabVIEW_Project_AEII_S4
+	url = git@gitlab.com:Shanduur/LabVIEW_Project_AEII_S4.git
+[submodule "semester-6/ItPiJ-Workbench"]
+	path = semester-6/ItPiJ-Workbench
+	url = git@gitlab.com:Shanduur/ItPiJ-Workbench.git
+[submodule "semester-6/AaDS-Workbench"]
+	path = semester-6/AaDS-Workbench
+	url = git@gitlab.com:Shanduur/AaDS-Workbench.git
+[submodule "semester-5/AI-workbench"]
+	path = semester-5/AI-workbench
+	url = git@gitlab.com:Shanduur/AI-workbench.git
+[submodule "semester-6/CF-Workbench"]
+	path = semester-6/CF-Workbench
+	url = git@gitlab.com:Shanduur/CF-Workbench.git
+[submodule "semester-5/CN-workbench"]
+	path = semester-5/CN-workbench
+	url = git@gitlab.com:Shanduur/CN-workbench.git
+[submodule "semester-7/ppl-projects"]
+	path = semester-7/ppl-projects
+	url = git@gitlab.com:Shanduur/ppl-projects.git
+[submodule "semester-7/pomd-workbench"]
+	path = semester-7/pomd-workbench
+	url = git@gitlab.com:Shanduur/pomd-workbench.git
+[submodule "semester-7/ca-workbench"]
+	path = semester-7/ca-workbench
+	url = git@gitlab.com:Shanduur/ca-workbench.git
+[submodule "semester-8/cla-workbench"]
+	path = semester-8/cla-workbench
+	url = git@gitlab.com:Shanduur/cla-workbench.git
+[submodule "semester-8/formal-languages-workbench"]
+	path = semester-8/formal-languages-workbench
+	url = git@gitlab.com:Shanduur/formal-languages-workbench.git
+[submodule "semester-8/pirap-workbench"]
+	path = semester-8/pirap-workbench
+	url = git@gitlab.com:Shanduur/pirap-workbench.git
+[submodule "semester-8/aom-workbench"]
+	path = semester-8/aom-workbench
+	url = git@gitlab.com:Shanduur/aom-workbench.git
+[submodule "semester-8/cloud-platforms-workbench"]
+	path = semester-8/cloud-platforms-workbench
+	url = git@gitlab.com:Shanduur/cloud-platforms-workbench.git
+[submodule "semester-8/sc-workbench"]
+	path = semester-8/sc-workbench
+	url = git@gitlab.com:Shanduur/sc-workbench.git
+[submodule "semester-8/evolutionary-algorithms-workbench"]
+	path = semester-8/evolutionary-algorithms-workbench
+	url = git@gitlab.com:Shanduur/evolutionary-algorithms-workbench.git
+[submodule "semester-7/dsip"]
+	path = semester-7/dsip
+	url = git@github.com:Shanduur/dsip.git
