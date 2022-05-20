@@ -67,3 +67,6 @@
 [submodule "semester-7/dsip"]
 	path = semester-7/dsip
 	url = git@github.com:Shanduur/dsip.git
+[submodule "semester-10/parallel-computing-in-data-science-workbench"]
+	path = semester-10/parallel-computing-in-data-science-workbench
+	url = https://gitlab.com/Shanduur/parallel-computing-in-data-science-workbench

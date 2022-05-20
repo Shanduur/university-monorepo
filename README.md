@@ -38,3 +38,4 @@
     - [sc-workbench](https://gitlab.com/Shanduur/sc-workbench)
 - [Semester 2](semester-9)
 - [Semester 3](semester-10)
+    - [parallel-computing-in-data-science-workbench](https://gitlab.com/Shanduur/cloud-platforms-workbench)
