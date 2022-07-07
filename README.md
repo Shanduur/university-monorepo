@@ -37,5 +37,7 @@
     - [pirap-workbench](https://gitlab.com/Shanduur/pirap-workbench)
     - [sc-workbench](https://gitlab.com/Shanduur/sc-workbench)
 - [Semester 2](semester-9)
+    - [hadoop-ecosystem-workbench](https://gitlab.com/Shanduur/hadoop-ecosystem-workbench)
 - [Semester 3](semester-10)
     - [parallel-computing-in-data-science-workbench](https://gitlab.com/Shanduur/cloud-platforms-workbench)
+    - [SARS-CoV-2 RNA sequencing](https://github.com/Shanduur/SARS-CoV-2-RNA-seq/)

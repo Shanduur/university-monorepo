@@ -70,3 +70,9 @@
 [submodule "semester-10/parallel-computing-in-data-science-workbench"]
 	path = semester-10/parallel-computing-in-data-science-workbench
 	url = https://gitlab.com/Shanduur/parallel-computing-in-data-science-workbench
+[submodule "semester-9/hadoop-ecosystem-workbench"]
+	path = semester-9/hadoop-ecosystem-workbench
+	url = git@gitlab.com:Shanduur/hadoop-ecosystem-workbench.git
+[submodule "semester-10/SARS-CoV-2-RNA-seq"]
+	path = semester-10/SARS-CoV-2-RNA-seq
+	url = git@github.com:Shanduur/SARS-CoV-2-RNA-seq.git
